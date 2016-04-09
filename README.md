@@ -1,5 +1,5 @@
 # Irish Constituencies Neo4j Database
-###### Student name, G00123456
+###### Oliver Arnold, G00311681
 
 ## Introduction
 With this project I wanted to populate a Neo4j database with enough statistics, so that I could query it to find out lots of interesting facts about the build-up to and the aftermath of the Irish General Election in 2016.
