@@ -47,7 +47,7 @@ WITH m, (COUNT(m)) as noSeats, collect(distinct m) as Parties
 order by noSeats desc
 limit 3
 unwind Parties as party
-return party.CollegeTuitionPolicy
+return party.name, party.CollegeTuitionPolicy
 
 //least competitive constituency, and it's Constituents
 MATCH (m:Constituency)-[r:Had_Running]->(x:TD) 
