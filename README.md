@@ -32,7 +32,7 @@ WITH m, (COUNT(m)) as noSeats, collect(distinct m) as Parties
 order by noSeats desc
 limit 3
 unwind Parties as party
-return party.CollegeTuitionPolicy
+return party.name, party.CollegeTuitionPolicy
 ```
 
 #### Least competitive constituency, and it's Constituents
