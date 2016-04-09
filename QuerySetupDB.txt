@@ -1,0 +1,71 @@
+//create elected members
+LOAD CSV WITH HEADERS FROM 'file:///C:/ElectedTds.csv' AS line
+CREATE (:TD { name: line.first_name +line.last_name, gender: line.gender, Constituency: line.constituency_name, Party: line.party_name, elected: 'true'})
+
+//create non elected members
+LOAD CSV WITH HEADERS FROM 'file:///C:/FullCandidatesList.csv' AS line
+Merge (:TD { name: line.first_name +line.last_name, gender: line.gender, Constituency: line.constituency_name, Party: line.party_name})
+
+//create a party node for each unique party name
+LOAD CSV WITH HEADERS FROM 'file:///C:/PartyPolicies.csv' AS line
+Merge (:Party {name: line.party_name, CollegeTuitionPolicy: line.free_college_tuition, Stance: line.party_stance})
+
+//set non elected members to not elected
+MATCH (n:TD) where n.elected IS NULL set  n.elected = 'false';
+	
+//create a constituency node
+match(n:TD) 
+merge (m:Constituency {name: n.Constituency});
+
+//create relationships between td and party
+	MATCH (a:TD),
+		  (b:Party)
+	where a.Party=b.name
+	MERGE (a)-[r:Member_of]->(b)
+	
+	//create relationships between party and td
+		MATCH (a:TD), (b:Party)
+	where a.Party=b.name
+	MERGE (b)-[r:Has_Member]->(a)
+
+//create relationship between td and constituency
+	MATCH (a:TD), (b:Constituency)
+	where a.Constituency=b.name
+	MERGE (b)-[r:Had_Running]->(a)
+
+
+//create relationship between constituency and td
+	MATCH (a:TD), (b:Constituency)
+	where a.Constituency=b.name
+	MERGE (a)-[r:Running]->(b)
+	
+
+//how the top three parties would vote on third level education fees
+MATCH (m:Party)-[r:Has_Member]->(n:TD) 
+where n.elected="true"
+WITH m, (COUNT(m)) as noSeats, collect(distinct m) as Parties
+order by noSeats desc
+limit 3
+unwind Parties as party
+return party.CollegeTuitionPolicy
+
+//least competitive constituency, and it's Constituents
+MATCH (m:Constituency)-[r:Had_Running]->(x:TD) 
+with m, count(distinct x) as runnerCount, collect(distinct m) as places
+order by runnerCount asc limit 1
+unwind places as constituency
+match (m:Constituency)-[r:Had_Running]->(x:TD) 	
+where m=constituency
+return r
+
+//Breakdown of elected TD's and where they fall on the political spectrum
+match(m:TD)-[r]->(n:Party)
+where m.elected="true"
+with n, count(distinct m) as tdCount, collect(m) as tds
+order by tdCount desc
+unwind tds as td
+match(td)-[r]->(n:Party)
+with SUM(CASE WHEN n.Stance="Right" THEN 1 ELSE 0 END) AS Right_Wing,
+SUM(CASE WHEN n.Stance="Left" THEN 1 ELSE 0 END) AS Left_Wing,
+SUM(CASE WHEN n.Stance="Centre" THEN 1 ELSE 0 END) AS Central
+return Right_Wing, Left_Wing, Central

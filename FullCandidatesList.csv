@@ -1,0 +1,549 @@
+first_name,last_name,gender,constituency_name,party_name
+Keith,Gilligan,Male,Carlow-Kilkenny,Independent
+Paddy,Manning,Male,Carlow-Kilkenny,Independent
+Kathleen ,Funchion,Female,Carlow-Kilkenny,Sinn Féin
+Jennifer,Murnane O’Connor,Female,Carlow-Kilkenny,Fianna Fáil
+Ann,Phelan,Female,Carlow-Kilkenny,Labour Party
+Adrienne ,Wallace,Female,Carlow-Kilkenny,People Before Profit Alliance
+Bobby,Aylward ,Male,Carlow-Kilkenny,Fianna Fáil
+Pat,Deering,Male,Carlow-Kilkenny,Fine Gael
+David,Fitzgerald,Male,Carlow-Kilkenny,Fine Gael
+Conor,Mac Liam,Male,Carlow-Kilkenny,People Before Profit Alliance
+John,McGuinness,Male,Carlow-Kilkenny,Fianna Fáil
+Patrick,McKee,Male,Carlow-Kilkenny,Renua
+Malcolm ,Noonan,Male,Carlow-Kilkenny,Green Party
+John Paul ,Phelan,Male,Carlow-Kilkenny,Fine Gael
+Noel,Walsh,Male,Carlow-Kilkenny,Independent
+Mike,Durkan,Male,Cavan-Monaghan,Fianna Fáil
+Aoife,O'Connell,Female,Cavan-Monaghan,Direct Democracy Ireland
+Emmett,Smith,Male,Cavan-Monaghan,Independent
+Heather,Humphries,Female,Cavan-Monaghan,Fine Gael
+Kathryn ,Reilly ,Female,Cavan-Monaghan,Sinn Féin
+Niamh ,Smyth,Female,Cavan-Monaghan,Fianna Fáil
+Mary ,Smyth ,Female,Cavan-Monaghan,Renua
+Micheal,Callaghan,Male,Cavan-Monaghan,Green Party
+Seán,Conlan,Male,Cavan-Monaghan,Independent
+Mick,McDermott,Male,Cavan-Monaghan,Direct Democracy Ireland
+Jimmy,Mee,Male,Cavan-Monaghan,Independent
+Caoimhghín ,Ó Caoláin,Male,Cavan-Monaghan,Sinn Féin
+Joe ,O’Reilly,Male,Cavan-Monaghan,Fine Gael
+Brendan,Smith,Male,Cavan-Monaghan,Fianna Fáil
+John ,Wilson,Male,Cavan-Monaghan,Independent
+André Sibo ,Hakizimana,Male,Clare,Independent
+Clare ,Colleran Molloy,Female,Clare,Fianna Fáil
+Mary,Howard,Female,Clare,Fine Gael
+Noeleen,Moran,Female,Clare,Sinn Féin
+Ann,Norton,Female,Clare,Independent
+Niamh,O'Brien,Female,Clare,Fís Nua
+Pat,Breen,Male,Clare,Fine Gael
+Richard ,Cahill,Male,Clare,Independent
+Joe ,Carey,Male,Clare,Fine Gael
+Timmy,Dooley,Male,Clare,Fianna Fáil
+Michael,Harty,Male,Clare,Independent
+Ian,Lynch,Male,Clare,Independent
+Michael ,McDonagh,Male,Clare,Fianna Fáil
+Michael ,McNamara,Male,Clare,Labour Party
+Dermot ,Mulqueen,Male,Clare,Independent
+Fergal ,Smith,Male,Clare,Green Party
+Barbara,Ahern,Female,Cork East,Fianna Fáil
+Natasha ,Harty,Female,Cork East,Green Party
+Ciara,Leonardi Roche,Female,Cork East,People Before Profit Alliance
+Mary,Linehan Foley,Female,Cork East,Independent
+Tom,Barry,Male,Cork East,Fine Gael
+Paul ,Bradford,Male,Cork East,Renua
+Pat,Buckley,Male,Cork East,Sinn Féin
+Paddy,Bullman,Male,Cork East,Independent
+Ross,Cannon,Male,Cork East,Independent
+Noel,McCarthy,Male,Cork East,Fine Gael
+Kieran,McCarthy,Male,Cork East,Independent
+Kevin,O'Keefe,Male,Cork East,Fianna Fáil
+Sean,Sherlock,Male,Cork East,Labour Party
+David ,Stanton,Male,Cork East,Fine Gael
+Ger,Keohane,Male,Cork North-Central,Independent
+Kathleen,Lynch,Female,Cork North-Central,Labour Party
+Julie,O'Leary,Female,Cork North-Central,Fine Gael
+Mick,Barry,Male,Cork North-Central,People Before Profit Alliance
+Thomas,Gould,Male,Cork North-Central,Sinn Féin
+Billy,Kelleher,Male,Cork North-Central,Fianna Fáil
+Thomas,Kiely,Male,Cork North-Central,Independent
+Oliver ,Moran,Male,Cork North-Central,Green Party
+Mick,Murphy,Male,Cork North-Central,Independent
+Dara,Murphy,Male,Cork North-Central,Fine Gael
+Johnathan,O'Brien,Male,Cork North-Central,Sinn Féin
+Paddy ,O'Leary,Male,Cork North-Central,Renua
+Peter,O'Loughlin,Male,Cork North-Central,Independent
+Ted,Tynan,Male,Cork North-Central,The Workers' Party
+Michael,O'Donnell,Male,Cork North-West,Communist Party of Ireland
+Aine ,Collins,Female,Cork North-West,Fine Gael
+Shirley,Griffin,Female,Cork North-West,Independent
+Michael,Creed,Male,Cork North-West,Fine Gael
+Nigel,Dennehy,Male,Cork North-West,Sinn Féin
+Jason,Fitzgerald,Male,Cork North-West,Renua
+Cormac,Manning,Male,Cork North-West,Green Party
+Michael,Moynihan,Male,Cork North-West,Fianna Fáil
+Aindrias ,Moynihan ,Male,Cork North-West,Fianna Fáil
+Diarmuid ,O’Flynn,Male,Cork North-West,Independent
+Steven ,O'Riordan,Male,Cork North-West,Independent
+John Paul,O'Shea,Male,Cork North-West,Independent
+Jerry,O'Sullivan,Male,Cork North-West,Independent
+Joe,Harris,Male,Cork South-Central ,Independent
+Elizabeth,Hourihane,Female,Cork South-Central ,Independent
+Lorna ,Bogue,Female,Cork South-Central ,Green Party
+Fiona,Ryan,Female,Cork South-Central ,People Before Profit Alliance
+Jerry,Buttimer,Male,Cork South-Central ,Fine Gael
+Simon,Coveney ,Male,Cork South-Central ,Fine Gael
+Mick,Finn,Male,Cork South-Central ,Independent
+Ciaran,Kenneally,Male,Cork South-Central ,Renua
+Ciaran ,Lynch,Male,Cork South-Central ,Labour Party
+Micheál,Martin,Male,Cork South-Central ,Fianna Fáil
+Michael,McGrath,Male,Cork South-Central ,Fianna Fáil
+Michael,Mohally,Male,Cork South-Central ,Independent
+Diarmaid,Ó Cadhla,Male,Cork South-Central ,Independent
+Jim,O'Connell,Male,Cork South-Central ,People Before Profit Alliance
+Donnchadh,Ó Laoghaire,Male,Cork South-Central ,Sinn Féin
+Theresa,Heaney,Female,Cork South-West,Catholic Democrats
+Fiona ,O'Leary,Female,Cork South-West,Independent
+Rachel ,McCarthy,Female,Cork South-West,Sinn Féin
+Margaret,Murphy O’Mahony,Female,Cork South-West,Fianna Fáil
+Gillian,Powell,Female,Cork South-West,Independent
+Alan ,Coleman,Male,Cork South-West,Independent
+Michael ,Collins,Male,Cork South-West,Independent
+Jim,Daly,Male,Cork South-West,Fine Gael
+Noel,Harrington,Male,Cork South-West,Fine Gael
+Michael,McCarthy,Male,Cork South-West,Labour Party
+Johnny,O'Mahony,Male,Cork South-West,Green Party
+Raymond,Whitehead,Male,Dún Laoghaire,Direct Democracy Ireland
+Maria,Bailey,Female,Dún Laoghaire,Fine Gael
+Mary,Hanafin,Female,Dún Laoghaire,Fianna Fáil
+Carol,Hunt,Female,Dún Laoghaire,Independent
+Mary ,Mitchell-O’Connor ,Female,Dún Laoghaire,Fine Gael
+Carrie,Smyth,Female,Dún Laoghaire,Labour Party
+Richard,Boyd-Barrett ,Male,Dún Laoghaire,People Before Profit Alliance
+Frank,Cronin,Male,Dún Laoghaire,Renua
+Cormac,Devlin,Male,Dún Laoghaire,Fianna Fáil
+Shane,O'Brien ,Male,Dún Laoghaire,Sinn Féin
+Ossian,Smyth,Male,Dún Laoghaire,Green Party
+Paula ,Flanagan,Female,Donegal,Green Party
+Niamh,Kennedy,Female,Donegal,Independent
+Cordelia,Nic Fhearraigh,Female,Donegal,Fís Nua
+Pearse,Doherty,Male,Donegal,Sinn Féin
+Gary ,Doherty ,Male,Donegal,Sinn Féin
+Pat,Gallagher,Male,Donegal,Fianna Fáil
+Paddy,Harte,Male,Donegal,Fine Gael
+Tim,Jackson,Male,Donegal,Independent
+Padraig,MacLochlainn,Male,Donegal,Sinn Féin
+Frank,McBrearty,Male,Donegal,Independent
+Charlie,McConalogue,Male,Donegal,Fianna Fáil
+Ian,McGarvey,Male,Donegal,Independent
+Joe,McHugh,Male,Donegal,Fine Gael
+Michael ,Mooney,Male,Donegal,Independent
+Thomas,Pringle,Male,Donegal,Independent
+Dessie,Shiels,Male,Donegal,Independent
+Donna,Cooney,Female,Dublin Bay North,Green Party
+Deirdre,Heney,Female,Dublin Bay North,Fianna Fáil
+Denise,Mitchell,Female,Dublin Bay North,Sinn Féin
+Averil,Power,Female,Dublin Bay North,Independent
+Stephanie Bernadette,Regan,Female,Dublin Bay North,Fine Gael
+Tommy,Broughan,Male,Dublin Bay North,Independents 4 Change
+Richard,Bruton,Male,Dublin Bay North,Fine Gael
+Paul,Clarke,Male,Dublin Bay North,Independent
+Terence,Flanagan,Male,Dublin Bay North,Renua
+Jimmy,Guerin,Male,Dublin Bay North,Independent
+Sean,Haughey,Male,Dublin Bay North,Fianna Fáil
+John,Lyons,Male,Dublin Bay North,People Before Profit Alliance
+Mícheál,Mac Donncha,Male,Dublin Bay North,Sinn Féin
+Finian,McGrath,Male,Dublin Bay North,Independent
+Michael,O'Brien,Male,Dublin Bay North,People Before Profit Alliance
+Cian,O’Callaghan,Male,Dublin Bay North,Social Democrats
+Proinsias,Ó Conaráin,Male,Dublin Bay North,Independent
+Naoise,Ó’ Muirí,Male,Dublin Bay North,Fine Gael
+Damien,O'Neill,Male,Dublin Bay North,Independent
+Aodhán ,Ó Ríordáin ,Male,Dublin Bay North,Labour Party
+Lucinda,Creighton ,Female,Dublin Bay South,Renua
+Glenna ,Lynch,Female,Dublin Bay South,Social Democrats
+Annette,Mooney,Female,Dublin Bay South,People Before Profit Alliance
+Kate,O'Connell,Female,Dublin Bay South,Fine Gael
+Chris,Andrews,Male,Dublin Bay South,Sinn Féin
+Mannix,Flynn,Male,Dublin Bay South,Independent
+William,Gorman,Male,Dublin Bay South,Independent
+Kevin,Humphreys,Male,Dublin Bay South,Labour Party
+John Dominic,Keigher,Male,Dublin Bay South,Independent
+Alan,MacStiofain,Male,Dublin Bay South,Independent
+Eoghan ,Murphy,Male,Dublin Bay South,Fine Gael
+Jim,O'Callaghan,Male,Dublin Bay South,Fianna Fáil
+Eamon,Ryan,Male,Dublin Bay South,Green Party
+Eoin,Tierney,Male,Dublin Bay South,Independent
+Guinan,Kerry,Male,Dublin Central,Independent
+Mary,Fitzpatrick,Female,Dublin Central,Fianna Fáil
+Mary Lou,McDonald,Female,Dublin Central,Sinn Féin
+Diana,O'Dwyer,Female,Dublin Central,People Before Profit Alliance
+Maureen ,O'Sullivan,Female,Dublin Central,Independent
+Éilis,Ryan,Female,Dublin Central,The Workers' Party
+Christy,Burke,Male,Dublin Central,Independent
+Joe,Costello,Male,Dublin Central,Labour Party
+Paschal ,Donohoe,Male,Dublin Central,Fine Gael
+Gary,Gannon,Male,Dublin Central,Social Democrats
+Jacqui,Gilbourne,Male,Dublin Central,Renua
+William,Gorman,Male,Dublin Central,Independent
+Cormac,McKay,Male,Dublin Central,Independent
+Cieran,Perry,Male,Dublin Central,Independent
+Ian Noel,Smyth,Male,Dublin Central,Green Party
+Gerry,Molloy,Male,Dublin Fingal,Renua
+Lorraine ,Clifford Lee,Female,Dublin Fingal,Fianna Fáil
+Clare,Daly,Female,Dublin Fingal,Independents 4 Change
+Roslyn,Fuller,Female,Dublin Fingal,Independent
+Louise ,O'Reilly,Female,Dublin Fingal,Sinn Féin
+Marcus,De Brun,Male,Dublin Fingal,Independent
+Alan ,Farrell,Male,Dublin Fingal,Fine Gael
+Terry ,Kelleher,Male,Dublin Fingal,People Before Profit Alliance
+Barry ,Martin,Male,Dublin Fingal,Independents 4 Change
+Tony,Murphy ,Male,Dublin Fingal,Independent
+Joe,O'Brien,Male,Dublin Fingal,Green Party
+Darragh,O'Brien,Male,Dublin Fingal,Fianna Fáil
+Fergal,O'Connell,Male,Dublin Fingal,Independent
+James ,Reilly,Male,Dublin Fingal,Fine Gael
+Brendan,Ryan,Male,Dublin Fingal,Labour Party
+Lorraine ,Hennessy,Female,Dublin Mid-West,The Workers' Party
+Frances ,Fitzgerald,Female,Dublin Mid-West,Fine Gael
+Anne-Marie ,McNally,Female,Dublin Mid-West,Social Democrats
+Joanna ,Tuffy,Female,Dublin Mid-West,Labour Party
+Patrick,Akpoveta,Male,Dublin Mid-West,Independent
+John ,Curran,Male,Dublin Mid-West,Fianna Fáil
+Paul,Gogarty,Male,Dublin Mid-West,Independent
+Christopher,Healy,Male,Dublin Mid-West,Direct Democracy Ireland
+Derek,Keating,Male,Dublin Mid-West,Fine Gael
+Gino,Kenny,Male,Dublin Mid-West,People Before Profit Alliance
+Haroon,Khan,Male,Dublin Mid-West,Independent
+Tom,Kivlehan,Male,Dublin Mid-West,Green Party
+Clare,Leonard,Male,Dublin Mid-West,Independent
+Eoin ,Ó Broin,Male,Dublin Mid-West,Sinn Féin
+Francis ,Timmons,Male,Dublin Mid-West,Independent
+Cathleen,Carney Boud,Female,Dublin North-West,Sinn Féin
+Caroline,Conroy,Female,Dublin North-West,Green Party
+Bernie ,Hughes,Female,Dublin North-West,Independent
+Roisin,Shortall,Female,Dublin North-West,Social Democrats
+Jimmy,Dignam,Male,Dublin North-West,The Workers' Party
+Dessie,Ellis,Male,Dublin North-West,Sinn Féin
+Andrew ,Keegan,Male,Dublin North-West,People Before Profit Alliance
+John,Lyons,Male,Dublin North-West,Labour Party
+Cormac,MacKay,Male,Dublin North-West,Direct Democracy Ireland
+Paul,McAuliffe,Male,Dublin North-West,Fianna Fáil
+Noel,Rock,Male,Dublin North-West,Fine Gael
+Alan,Deveron,Male,Dublin Rathdown,Renua
+Josepha,Madigan,Female,Dublin Rathdown,Fine Gael
+Catherine,Martin,Female,Dublin Rathdown,Green Party
+Sorcha ,Nic Cormaic,Female,Dublin Rathdown,Sinn Féin
+Mary ,White,Female,Dublin Rathdown,Fianna Fáil
+Peter ,Matthews,Male,Dublin Rathdown,Independent
+Shane,Ross,Male,Dublin Rathdown,Independent
+Alan,Shatter,Male,Dublin Rathdown,Fine Gael
+Alex,White ,Male,Dublin Rathdown,Labour Party
+Michael ,Gargan,Male,Dublin South-Central,Renua
+Catherine,Ardagh,Female,Dublin South-Central,Fianna Fáil
+Catherine,Byrne,Female,Dublin South-Central,Fine Gael
+Joan,Collins,Female,Dublin South-Central,Independents 4 Change
+Máire,Devine,Female,Dublin South-Central,Sinn Féin
+Bríd,Smith,Female,Dublin South-Central,People Before Profit Alliance
+Neville,Bradley,Male,Dublin South-Central,Direct Democracy Ireland
+Eric,Byrne,Male,Dublin South-Central,Labour Party
+Liam ,Coyne,Male,Dublin South-Central,Social Democrats
+Paul,Hand,Male,Dublin South-Central,Independent
+Richard,Murray,Male,Dublin South-Central,Independent
+Oisín,Ó hAlmhain,Male,Dublin South-Central,Green Party
+Aengus,Ó Snodaigh,Male,Dublin South-Central,Sinn Féin
+Anne-Marie,Dermody,Female,Dublin South-West,Fine Gael
+Sandra,Fay,Female,Dublin South-West,People Before Profit Alliance
+Sarah ,Holland,Female,Dublin South-West,Sinn Féin
+Deirdre,O'Donovan,Female,Dublin South-West,Independent
+Joan,Summerville-Malloy,Female,Dublin South-West,Independent
+Karen,Warren,Female,Dublin South-West,Fine Gael
+Katherine ,Zappone,Female,Dublin South-West,Independent
+Colm,Brophy,Male,Dublin South-West,Fine Gael
+Declan ,Burke,Male,Dublin South-West,Independent
+Sean,Crowe,Male,Dublin South-West,Sinn Féin
+Mick,Duff,Male,Dublin South-West,Labour Party
+Francis Noel,Duffy,Male,Dublin South-West,Green Party
+Peter,Fitzpatrick,Male,Dublin South-West,Independent
+John,Lahart,Male,Dublin South-West,Fianna Fáil
+Eamonn,Maloney,Male,Dublin South-West,Independent
+Ronan,McMahon,Male,Dublin South-West,Renua
+Paul ,Murphy,Male,Dublin South-West,People Before Profit Alliance
+Frank,O'Gorman,Male,Dublin South-West,Independent
+Kieran Adam,Quigley,Male,Dublin South-West,Independent
+Stephen ,Sinclair,Male,Dublin South-West,Direct Democracy Ireland
+Joan ,Burton,Female,Dublin West,Labour Party
+Ruth,Coppinger,Female,Dublin West,People Before Profit Alliance
+Catherine ,Noone,Female,Dublin West,Fine Gael
+Jo,O'Brien,Female,Dublin West,Renua
+Dermot ,Casey,Male,Dublin West,Independent
+Jack,Chambers,Male,Dublin West,Fianna Fáil
+TJ,Clare,Male,Dublin West,Independent
+Paul ,Donnelly ,Male,Dublin West,Sinn Féin
+David,McGuinness ,Male,Dublin West,Independent
+Roderic ,O'Gorman,Male,Dublin West,Green Party
+Leo,Varadkar,Male,Dublin West,Fine Gael
+Lorraine ,Higgins,Female,Galway East,Labour Party
+Anne ,Rabbitte ,Female,Galway East,Fianna Fáil
+Annemarie ,Roche,Female,Galway East,Sinn Féin
+Sean ,Canney,Male,Galway East,Independent
+Ciaran,Cannon,Male,Galway East,Fine Gael
+Paul,Connaughton ,Male,Galway East,Fine Gael
+Colm,Keaveney,Male,Galway East,Fianna Fáil
+Aengus,Melia,Male,Galway East,Direct Democracy Ireland
+Máiréad,Ní Chróinín,Male,Galway East,Green Party
+Catherine,Connolly,Female,Galway West,Independent
+Nicola ,Daveron,Female,Galway West,Renua
+Fidelma,Healy-Eames,Female,Galway West,Independent
+Mary ,Hoade,Female,Galway West,Fianna Fáil
+Hildegarde ,Naughten,Female,Galway West,Fine Gael
+James ,Charity ,Male,Galway West,Independent
+John,Connolly,Male,Galway West,Fianna Fáil
+Mike ,Cubbard,Male,Galway West,Independent
+Patrick ,Feeney,Male,Galway West,Independent
+Noel,Grealish,Male,Galway West,Independent
+Tommy,Holohan,Male,Galway West,People Before Profit Alliance
+Seán,Kyne,Male,Galway West,Fine Gael
+Derek ,Nolan,Male,Galway West,Labour Party
+Trevor,O’Clochartaigh,Male,Galway West,Sinn Féin
+Eamon,O'Cuiv,Male,Galway West,Fianna Fáil
+John ,O’Mahony,Male,Galway West,Fine Gael
+Ruairi,O'Neill,Male,Galway West,Direct Democracy Ireland
+Niall,Ó Tuathail,Male,Galway West,Social Democrats
+Tommy,Roddy,Male,Galway West,Independent
+Seamus,Sheridan,Male,Galway West,Green Party
+Kevin ,Murphy,Male,Kerry,Independent
+Mary ,Fitzgibbon,Female,Kerry,Independent
+Norma,Moriarty,Female,Kerry,Fianna Fáil
+Grace,O’Donnell,Female,Kerry,Fine Gael
+John ,Brassil,Male,Kerry,Fianna Fáil
+Donal ,Corcoran,Male,Kerry,Renua
+Jimmy ,Deenihan,Male,Kerry,Fine Gael
+Martin ,Ferris,Male,Kerry,Sinn Féin
+Brian,Finucane,Male,Kerry,People Before Profit Alliance
+Michael,Fitzgerald,Male,Kerry,Green Party
+Henry,Gaynor,Male,Kerry,Independent
+Brendan ,Griffin ,Male,Kerry,Fine Gael
+Michael ,Healy Rae,Male,Kerry,Independent
+Danny,Healy-Rae,Male,Kerry,Independent
+Michael ,O'Gorman,Male,Kerry,Independent
+Arthur,Spring,Male,Kerry,Labour Party
+Michael,Beirne,Male,Kildare North,Independent
+Réada,Cronin,Female,Kildare North,Sinn Féin
+Ashling,Merriman,Female,Kildare North,People Before Profit Alliance
+Catherine,Murphy,Female,Kildare North,Social Democrats
+Maebh,Ní Fhallúin,Female,Kildare North,Green Party
+Elizabeth ,O'Sullivan,Female,Kildare North,Independent
+Gerard,Dunne,Male,Kildare North,Independent
+Bernard,Durkan,Male,Kildare North,Fine Gael
+Shane,Fitzgerald,Male,Kildare North,Renua
+James ,Lawless,Male,Kildare North,Fianna Fáil
+Anthony,Lawlor,Male,Kildare North,Fine Gael
+Frank,O'Rourke,Male,Kildare North,Fianna Fáil
+Emmett ,Stagg,Male,Kildare North,Labour Party
+Brendan,Young ,Male,Kildare North,Independent
+Suzanne,McEneaney,Female,Kildare South,Green Party
+Mary,Kennedy,Female,Kildare South,Renua
+Fiona,McLoughlin-Healy,Female,Kildare South,Fine Gael
+Fiona ,O'Loughlin,Female,Kildare South,Fianna Fáil
+Patricia ,Ryan,Female,Kildare South,Sinn Féin
+Declen,Crowe,Male,Kildare South,Independent
+Martin,Heydon,Male,Kildare South,Fine Gael
+Sean,O'Fearghail,Male,Kildare South,Fianna Fáil
+Mark,Wall,Male,Kildare South,Labour Party
+Thomasina,Connell,Female,Laois,Fine Gael
+Sinead,Moore,Female,Laois,Green Party
+Charlie,Flanagan,Male,Laois,Fine Gael
+Sean,Fleming,Male,Laois,Fianna Fáil
+Brian,Stanley,Male,Laois,Sinn Féin
+John,Whelan,Male,Laois,Labour Party
+Nora,Bennis,Female,Limerick City,Catholic Democrats
+Sarah Jane ,Hennelly ,Female,Limerick City,Social Democrats
+Jan ,O'Sullivan,Female,Limerick City,Labour Party
+James,Gaffney,Male,Limerick City,Green Party
+Desmond,Hayes,Male,Limerick City,Independent
+Michael ,Noonan,Male,Limerick City,Fine Gael
+Willie ,O'Dea,Male,Limerick City,Fianna Fáil
+Kieran,O'Donnell,Male,Limerick City,Fine Gael
+Cian ,Prendiville,Male,Limerick City,People Before Profit Alliance
+Maurice ,Quinlivan,Male,Limerick City,Sinn Féin
+Denis,Riordan,Male,Limerick City,Independent
+Richard ,O'Donoghue,Male,Limerick County,Independent
+Seamus,Browne,Male,Limerick County,Sinn Féin
+Niall,Collins,Male,Limerick County,Fianna Fáil
+Alexander,Cosgrave,Male,Limerick County,Green Party
+James,Heffernan ,Male,Limerick County,Social Democrats
+Mark ,Keogh,Male,Limerick County,Direct Democracy Ireland
+Tom,Neville,Male,Limerick County,Fine Gael
+Emmett,O'Brien,Male,Limerick County,Independent
+Patrick,O'Donovan,Male,Limerick County,Fine Gael
+John,O'Gorman,Male,Limerick County,Independent
+Brian,Fagan,Male,Longford-Westmeath,Independent
+James,Miller,Male,Longford-Westmeath,Independent
+Mae,Sexton,Female,Longford-Westmeath,Independent
+Connie,Gerety-Quinn,Female,Longford-Westmeath,Fianna Fáil
+Stephanie,Healy,Female,Longford-Westmeath,Direct Democracy Ireland
+Gabrielle,McFadden,Female,Longford-Westmeath,Fine Gael
+Barbara,Smyth,Female,Longford-Westmeath,Independent
+James ,Bannon,Male,Longford-Westmeath,Fine Gael
+Peter,Burke,Male,Longford-Westmeath,Fine Gael
+Paul,Hogan,Male,Longford-Westmeath,Sinn Féin
+Donal ,Jackson,Male,Longford-Westmeath,Independent
+Manchán ,Magan,Male,Longford-Westmeath,Green Party
+Noel,McKervey,Male,Longford-Westmeath,Catholic Democrats
+Kevin,Moran,Male,Longford-Westmeath,Independent
+James,Morgan,Male,Longford-Westmeath,Independent
+Dom ,Parker,Male,Longford-Westmeath,Anti Austerity Alliance
+Willie,Penrose,Male,Longford-Westmeath,Labour Party
+Robert,Troy,Male,Longford-Westmeath,Fianna Fáil
+Emma ,Coffey,Female,Louth,Fianna Fáil
+Mary,Moran,Female,Louth,Labour Party
+Imelda,Munster,Female,Louth,Sinn Féin
+Maeve,Yore,Female,Louth,Independent
+Gerry,Adams,Male,Louth,Sinn Féin
+David ,Bradley,Male,Louth,Independent
+Declan ,Breathnach,Male,Louth,Fianna Fáil
+Kevin,Callan,Male,Louth,Independent
+Anthony,Connor,Male,Louth,Direct Democracy Ireland
+Mark,Dearey ,Male,Louth,Green Party
+Peter,Fitzpatrick,Male,Louth,Fine Gael
+Pat,Greene,Male,Louth,Direct Democracy Ireland
+Gerald ,Nash,Male,Louth,Labour Party
+Michael,O'Dowd,Male,Louth,Renua
+Fergus,O’Dowd,Male,Louth,Fine Gael
+Garett,Weldon,Male,Louth,People Before Profit Alliance
+Jerry,Cowley,Male,Mayo,Independent
+Peter,Jordan,Male,Mayo,Independent
+Stephen ,Manning,Male,Mayo,Independent
+George,O'Malley,Male,Mayo,Independent
+Lisa,Chambers,Female,Mayo,Fianna Fáil
+Rose ,Conway-Walsh,Female,Mayo,Sinn Féin
+Michelle,Mulherin,Female,Mayo,Fine Gael
+Margaret,Sheehan,Female,Mayo,Green Party
+Dara,Calleary,Male,Mayo,Fianna Fáil
+Michael,Farrington,Male,Mayo,Renua
+Sean,Forkan,Male,Mayo,Independent
+Enda,Kenny,Male,Mayo,Fine Gael
+Tom,Moran,Male,Mayo,People Before Profit Alliance
+Gerry,O'Boyle,Male,Mayo,Independent
+Michael,Ring,Male,Mayo,Fine Gael
+Kamal ,Uddin,Male,Mayo,Independent
+Regina,Doherty ,Female,Meath East,Fine Gael
+Sharon ,Keogan,Female,Meath East,Independent
+Helen,McEntee,Female,Meath East,Fine Gael
+Aisling ,O’Neill ,Female,Meath East,Social Democrats
+Joe,Bonner,Male,Meath East,Independent
+Thomas,Byrne,Male,Meath East,Fianna Fáil
+Ben ,Gilroy,Male,Meath East,Direct Democracy Ireland
+Dominic ,Hannigan,Male,Meath East,Labour Party
+Séamus ,McDonagh,Male,Meath East,The Workers' Party
+Seán,Ó Buachalla ,Male,Meath East,Green Party
+Darren,O'Rourke,Male,Meath East,Sinn Féin
+Sarah,Tyrrell,Male,Meath East,Renua
+Alan ,Lawes,Male,Meath West,Direct Democracy Ireland
+Tracy,McElhinney,Female,Meath West,Labour Party
+Ray,Butler,Male,Meath West,Fine Gael
+Shane,Cassells,Male,Meath West,Fianna Fáil
+Damien,English,Male,Meath West,Fine Gael
+Trevor,Golden,Male,Meath West,Independent
+John,Malone,Male,Meath West,Independent
+Seamus,McMenamin,Male,Meath West,Green Party
+Peadar ,Tóibín,Male,Meath West,Sinn Féin
+Kate,Bopp,Female,Offaly,Independent
+Marcella,Corcoran-Kennedy,Female,Offaly,Fine Gael
+Carol,Nolan,Female,Offaly,Sinn Féin
+Teresa,Ryan-Feehan,Female,Offaly,Independent
+Barry ,Cowen,Male,Offaly,Fianna Fáil
+Christopher,Fettes,Male,Offaly,Green Party
+Eddie ,Fitzpatrick,Male,Offaly,Fianna Fáil
+John,Foley,Male,Offaly,Independent
+Joe,Hannigan ,Male,Offaly,Independent
+John,Leahy,Male,Offaly,Renua
+Ken,Smollen,Male,Offaly,Irish Democratic Party
+Anne ,Farrell,Female,Roscommon-Galway,Renua
+Miriam,Hennesy,Female,Roscommon-Galway,Green Party
+Maura ,Hopkins,Female,Roscommon-Galway,Fine Gael
+Claire ,Kerrane,Female,Roscommon-Galway,Sinn Féin
+Tony ,Coleman,Male,Roscommon-Galway,Independent
+Eddie,Conroy,Male,Roscommon-Galway,People Before Profit Alliance
+Shane,Curran,Male,Roscommon-Galway,Fianna Fáil
+Thomas Declen,Fallon,Male,Roscommon-Galway,Independent
+Michael ,Fitzmaurice,Male,Roscommon-Galway,Independent
+John,Kelly,Male,Roscommon-Galway,Labour Party
+Eugene,Murphy,Male,Roscommon-Galway,Fianna Fáil
+Denis,Naughten,Male,Roscommon-Galway,Independent
+Des,Guckian,Male,Sligo–Leitrim,Independent
+Bernie ,O'Hara,Male,Sligo–Leitrim,Independent
+Marie,Casserly ,Female,Sligo–Leitrim,Independent
+Susan,O'Keefe,Female,Sligo–Leitrim,Labour Party
+Declan,Bree,Male,Sligo–Leitrim,Independent
+Finbarr ,Filan,Male,Sligo–Leitrim,Renua
+Nigel,Gallagher,Male,Sligo–Leitrim,People Before Profit Alliance
+Martin,Kenny,Male,Sligo–Leitrim,Sinn Féin
+Chris,MacManus,Male,Sligo–Leitrim,Sinn Féin
+Marc,MacSharry,Male,Sligo–Leitrim,Fianna Fáil
+Tony,McLoughlin,Male,Sligo–Leitrim,Fine Gael
+Eamon,Murray,Male,Sligo–Leitrim,Independent
+Leslie,O'Hora,Male,Sligo–Leitrim,Green Party
+Paddy,O'Rourke,Male,Sligo–Leitrim,Fianna Fáil
+John,Perry,Male,Sligo–Leitrim,Fine Gael
+Gerry,Reynolds,Male,Sligo–Leitrim,Fine Gael
+Eamon,Scanlon,Male,Sligo–Leitrim,Fianna Fáil
+Bernard,Sweeney ,Male,Sligo–Leitrim,Independent
+Siobhan,Ambrose,Female,Tipperary,Fianna Fáil
+Marie ,Murphy,Female,Tipperary,Fine Gael
+Jackie,Cahill,Male,Tipperary,Fianna Fáil
+Noel,Coonan,Male,Tipperary,Fine Gael
+Michael,Dillon,Male,Tipperary,Independent
+Gearóid,Fitzgibbon,Male,Tipperary,Green Party
+Tom ,Hayes,Male,Tipperary,Fine Gael
+Seamus,Healy,Male,Tipperary,Independent
+Alan,Kelly,Male,Tipperary,Labour Party
+Michael,Lowry,Male,Tipperary,Independent
+Mattie,McGrath,Male,Tipperary,Independent
+Séamus,Morris,Male,Tipperary,Sinn Féin
+Michael,Smith,Male,Tipperary,Fianna Fáil
+Mary,Butler,Female,Waterford,Fianna Fáil
+Ciara,Conway,Female,Waterford,Labour Party
+Una,Dunphy,Female,Waterford,People Before Profit Alliance
+Grace,O'Sullivan,Female,Waterford,Green Party
+Mailo,Power,Female,Waterford,Renua
+Sheikh Mohiuddin,Ahmed,Male,Waterford,Independent
+Paudie,Coffey,Male,Waterford,Fine Gael
+David,Cullinane,Male,Waterford,Sinn Féin
+John,Deasy,Male,Waterford,Fine Gael
+John,Halligan,Male,Waterford,Independent
+Edward,Quilty,Male,Waterford,Direct Democracy Ireland
+John,Walsh,Male,Waterford,Independent
+Aoife,Byrne,Female,Wexford,Fianna Fáil
+Caroline,Foxe,Female,Wexford,Independent
+Julie,Hogan,Female,Wexford,Fine Gael
+Deirdre,Wadding,Female,Wexford,People Before Profit Alliance
+Ann,Walsh,Female,Wexford,Green Party
+James,Browne,Male,Wexford,Fianna Fáil
+Malcolm,Byrne,Male,Wexford,Fianna Fáil
+Ger,Carthy,Male,Wexford,Independent
+Michael,D'Arcy,Male,Wexford,Fine Gael
+John,Dwyer,Male,Wexford,Independent
+Brendan,Howlin,Male,Wexford,Labour Party
+Paul,Kehoe,Male,Wexford,Fine Gael
+Leonard,Kelly,Male,Wexford,Social Democrats
+David,Lloyd,Male,Wexford,Direct Democracy Ireland
+Emmet,Moloney,Male,Wexford,Independent
+Johnny,Mythen,Male,Wexford,Sinn Féin
+Mick,Wallace,Male,Wexford,Independents 4 Change
+Sharon,Briggs,Female,Wicklow,People Before Profit Alliance
+Avril,Cronin,Female,Wicklow,Fine Gael
+Jennifer,Cuffe,Female,Wicklow,Fianna Fáil
+Anna,Doyle,Female,Wicklow,People Before Profit Alliance
+Anne ,Ferris,Female,Wicklow,Labour Party
+Katrina,Hutchinson,Female,Wicklow,Direct Democracy Ireland
+Joe,Behan,Male,Wicklow,Independent
+John,Brady,Male,Wicklow,Sinn Féin
+Pat ,Casey,Male,Wicklow,Fianna Fáil
+Stephen,Donnelly,Male,Wicklow,Social Democrats
+Andrew,Doyle,Male,Wicklow,Fine Gael
+Simon,Harris,Male,Wicklow,Fine Gael
+Bob,Kearns,Male,Wicklow,Independent
+Charlie,Keddy,Male,Wicklow,Independent
+Steven,Matthews,Male,Wicklow,Green Party
+Billy ,Timmins,Male,Wicklow,Renua
