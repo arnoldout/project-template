@@ -15,6 +15,30 @@ For the actual queries I used in creating my DB, please see the QuerySetupDB.txt
 Each constituency was created by using the constituency label in the TD nodes. I search through the TDs, and where a constituency that hasn't been used yet is found, a new node is created. 
 For the actual queries I used in creating my DB, please see the QuerySetupDB.txt file. 
 
+| Label        | Description           | 
+| ------------- |:-------------:|
+| name      | The name of the constituency |
+
+###TDs
+The TD nodes are broken down to the following labels:
+
+| Label        | Description           | 
+| ------------- |:-------------:|
+| name      | The name of the TD |
+| Party      | The Party they are running for |
+| elected      | A boolean stating whether the candidated was elected or not (true means elected, false not elected) |
+| Constituency      | The constituency where the candidate is running |
+| gender      | Whether the candidate is male or female |
+
+###Party
+The Party nodes are broken down to the following labels
+
+| Label        | Description           | 
+| ------------- |:-------------:|
+| name      | The name of the Party |
+| CollegeTuitionPolicy | Party's stance on third level college tuition, a party will either be Against, Neutral or will support it |
+| Stance      | The political stance of the party. I.E. Right wing, Left wing or Central|
+
 ###Relationships
 To link nodes through relationships, I used the party and constituency labels in the TD node, and created a relationship where the label matched the name of the inteded node. 
 For the actual queries I used in creating my DB, please see the QuerySetupDB.txt file. 
